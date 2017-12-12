@@ -10,6 +10,6 @@ redirect_from:
 
 Harshit Saini
 
-Hi I’m Harshit Saini, a third year undergraduate at the Chemical engineering department, IITK. I am interested in  in Algorithms , Machine Learning , Deep Learning
+Hi I’m Harshit Saini, a third year undergraduate at the Chemical engineering department, IITK. I am interested in Algorithms , Machine Learning , Deep Learning .
 
 
